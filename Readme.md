@@ -6,7 +6,7 @@ _I love the world of software development, I love clean code_
 
 </div>
 <p align="center">
-  <a href="https://github.com/WizardRRR"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Royer+Rutti+Ramos;WizardRRR;2+years+of+experience"></a>
+  <a href="https://github.com/wizardrevenge"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Royer+Rutti+Ramos;wizardrevenge;2+years+of+experience"></a>
 </p>
 <h3 align="left">Skills</h3>
 <p>
@@ -55,13 +55,13 @@ _I love the world of software development, I love clean code_
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WizardRRR&theme=radical&hide_border=false"><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizardRRR&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardrevenge&theme=radical&hide_border=false"><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardrevenge&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
 </p>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=WizardRRR&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wizardrevenge&icon=3&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
